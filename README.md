@@ -1,6 +1,6 @@
 # Chordium Static Assets
 
-Public static assets for Chordium PWA, hosted separately to avoid Vercel authentication conflicts.
+Public static assets for Chordium, hosted separately to avoid Vercel authentication conflicts.
 
 ## Files
 
