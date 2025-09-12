@@ -2,7 +2,8 @@
   "name": "Chordium",
   "short_name": "Chordium",
   "description": "A modern, minimalist chord viewer app for guitar players.",
-  "start_url": "https://chordium.vercel.app/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#9b87f5",
@@ -50,7 +51,7 @@
       "name": "Search",
       "short_name": "Search",
       "description": "Find guitar chords",
-      "url": "https://chordium.vercel.app/search",
+      "url": "/search",
       "icons": [
         {
           "src": "https://arthurboss.github.io/chordium-static/favicon-192.png",
@@ -63,7 +64,7 @@
       "name": "Upload",
       "short_name": "Upload",
       "description": "Upload a new chord sheet",
-      "url": "https://chordium.vercel.app/upload",
+      "url": "/upload",
       "icons": [
         {
           "src": "https://arthurboss.github.io/chordium-static/favicon-192.png",
@@ -76,7 +77,7 @@
       "name": "My Chord Sheets",
       "short_name": "My Songs",
       "description": "View your saved chord sheets",
-      "url": "https://chordium.vercel.app/my-chord-sheets",
+      "url": "/my-chord-sheets",
       "icons": [
         {
           "src": "https://arthurboss.github.io/chordium-static/favicon-192.png",
